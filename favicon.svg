@@ -1,4 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#0F172A"/>
-  <text x="32" y="44" font-family="system-ui,-apple-system,sans-serif" font-size="38" font-weight="700" fill="#FFFFFF" text-anchor="middle">Ч</text>
+  <rect width="64" height="64" rx="14" fill="#0F172A"/>
+  
+  <!-- Gravel pile triangle -->
+  <path d="M32 14 L46 34 L18 34 Z" fill="#E2E8F0" opacity="0.9"/>
+  
+  <!-- Truck body rectangle -->
+  <rect x="16" y="34" width="32" height="10" rx="1.5" fill="#E2E8F0" opacity="0.85"/>
+  
+  <!-- Dump angle line -->
+  <rect x="42" y="34" width="2" height="10" rx="0.5" fill="#0F172A" opacity="0.3"/>
+  
+  <!-- Wheel left -->
+  <circle cx="24" cy="44" r="3.5" fill="#E2E8F0" opacity="0.9"/>
+  <circle cx="24" cy="44" r="1.5" fill="#0F172A"/>
+  
+  <!-- Wheel right -->
+  <circle cx="40" cy="44" r="3.5" fill="#E2E8F0" opacity="0.9"/>
+  <circle cx="40" cy="44" r="1.5" fill="#0F172A"/>
 </svg>
