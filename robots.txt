@@ -1,0 +1,12 @@
+User-agent: Yandex
+Allow: /
+Crawl-Delay: 5
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://chekhov-nerud.ru/sitemap.xml
+Host: https://chekhov-nerud.ru
